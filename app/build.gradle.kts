@@ -15,6 +15,7 @@ android {
         applicationId = "com.nexaai"
         minSdk = 26
         targetSdk = 34
+        ndkVersion = "25.1.8937393"
         versionCode = 1
         versionName = "1.0.0"
 
